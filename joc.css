@@ -1,0 +1,26 @@
+* { padding: 0; 
+	margin: 0; 
+}
+body{
+	background-color: black;
+}
+canvas{ 
+	background: whitesmoke; 
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 10px;
+}
+#scorejoc{
+	color: white;
+	background-color:black;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+#joc{
+	color: white;
+	background-color:black;
+	margin-top: 100px;
+	text-align: center;
+	font-size: 30px;
+}
