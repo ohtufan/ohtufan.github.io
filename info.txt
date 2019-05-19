@@ -3,4 +3,4 @@ Tufan Emre ELMA
 Industrial Engineering
 Bim222-Hw3
 
-https://ohtufan.github.io/
+https://ohtufan.github.io/joc.html
